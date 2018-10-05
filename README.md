@@ -11,7 +11,7 @@
 * [models](models) contains the architecture of our model and other ones for evaluating performance.
 
 ## Reference
-
+```
 @InProceedings{doanviet2018,
   title="{Real-time Image Semantic Segmentation Networks with Residual Depth-wise Separable Blocks}",
   author={Van-Viet Doan, Duy-Hung Nguyen, Quoc-Long Tran, Do-Van Nguyen and Thanh-Ha Le},
@@ -20,3 +20,4 @@
   year={2018},
   note={accepted as oral presentation},
 }
+```
